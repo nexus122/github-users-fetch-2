@@ -6,6 +6,7 @@ Comunication with REST API services is essential in both front end and back end 
 
 Get familiar with the REST API Github. 
 Learn [how to retrieve information](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api) about a user.
+Also you should have some knowledge about how to execute [AJAX calls and JSON notation](https://www.w3schools.com/js/js_api_fetch.asp).
 
 ## Steps
 
@@ -16,6 +17,7 @@ Learn [how to retrieve information](https://docs.github.com/en/rest/guides/getti
    2. When the user clicks in "Search" button, an AJAX call should be performed to the GitHub API to retrieve information about the filled username
    3. A new row should be added in the table to display the avatar, bio, and the homepage of the given user.
 
+[Working DEMO](https://github-users-fetch-2-solucion.vercel.app/)
 
 ## BONUS
 
